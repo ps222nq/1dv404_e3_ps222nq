@@ -1,0 +1,6 @@
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3\Uppgift 3\bin\Debug\Uppgift 3.exe.config
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3\Uppgift 3\bin\Debug\Uppgift 3.exe
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3\Uppgift 3\bin\Debug\Uppgift 3.pdb
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.csprojResolveAssemblyReference.cache
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.exe
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3\Uppgift 3\obj\Debug\Uppgift 3.pdb

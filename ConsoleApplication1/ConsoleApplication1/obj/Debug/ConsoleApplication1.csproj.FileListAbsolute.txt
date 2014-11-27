@@ -4,3 +4,6 @@ C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv402-2-3-a-geometriska-figurer\Con
 C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv402-2-3-a-geometriska-figurer\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv402-2-3-a-geometriska-figurer\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv402-2-3-a-geometriska-figurer\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
