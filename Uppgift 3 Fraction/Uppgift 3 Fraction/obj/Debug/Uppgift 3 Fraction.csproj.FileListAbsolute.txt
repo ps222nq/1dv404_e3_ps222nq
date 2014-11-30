@@ -1,1 +1,6 @@
 C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3 Fraction\Uppgift 3 Fraction\bin\Debug\Uppgift 3 Fraction.exe.config
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3 Fraction\Uppgift 3 Fraction\bin\Debug\Uppgift 3 Fraction.exe
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3 Fraction\Uppgift 3 Fraction\bin\Debug\Uppgift 3 Fraction.pdb
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3 Fraction\Uppgift 3 Fraction\obj\Debug\Uppgift 3 Fraction.csprojResolveAssemblyReference.cache
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3 Fraction\Uppgift 3 Fraction\obj\Debug\Uppgift 3 Fraction.exe
+C:\Users\Pepyn Swagemakers\Documents\GitHub\1dv404_e3_ps222nq\1dv404_e3_ps222nq\Uppgift 3 Fraction\Uppgift 3 Fraction\obj\Debug\Uppgift 3 Fraction.pdb
